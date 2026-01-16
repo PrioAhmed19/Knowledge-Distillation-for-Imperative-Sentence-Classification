@@ -254,13 +254,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-Your Name - [@yourhandle](https://twitter.com/yourhandle)
+Your Name - [@Prio](https://www.linkedin.com/in/refat-ahmed19/)
 
-Project Link: [https://github.com/yourusername/knowledge-distillation-imperative](https://github.com/yourusername/knowledge-distillation-imperative)
+Project Link: [https://github.com/Prioahmed19/knowledge-distillation-imperative](https://github.com/PrioAhmed19/knowledge-distillation-imperative)
 
 ## 🙏 Acknowledgments
 
-- Dataset creators for the code-mixed imperative sentence dataset
+- Dataset created by Gemini Api
 - Hugging Face team for the Transformers library
 - PyTorch team for the deep learning framework
 
