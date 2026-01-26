@@ -244,7 +244,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## 📚 References
 
@@ -254,7 +254,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-Your Name - [@Prio](https://www.linkedin.com/in/refat-ahmed19/)
+[@Prio](https://www.linkedin.com/in/refat-ahmed19/)
 
 Project Link: [https://github.com/Prioahmed19/knowledge-distillation-imperative](https://github.com/PrioAhmed19/knowledge-distillation-imperative)
 
